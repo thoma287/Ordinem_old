@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EEF9993FCC19EE2C6A93988841908BE4E6E3E7A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EEF9993FCC19EE2C6A93988841908BE4E6E3E7A4" : 9223372036854775807,
+    "BD28111691DCF2E128AA8CFE13B3FAEEC6235CD7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "316141AE-58E2-4A9E-AF33-175A9076794E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EEF9993FCC19EE2C6A93988841908BE4E6E3E7A4" : "Ordinem\/",
+    "BD28111691DCF2E128AA8CFE13B3FAEEC6235CD7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ordinem_iOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ordinem_iOS_fixed\/Ordinem_iOS.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VibeAnalytics\/Vibe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD28111691DCF2E128AA8CFE13B3FAEEC6235CD7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VibeAnalytics\/Ordinem.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEF9993FCC19EE2C6A93988841908BE4E6E3E7A4"
+    }
+  ]
+}

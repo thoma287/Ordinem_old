@@ -1,0 +1,6 @@
+framework module Pods_Ordinem_iOS {
+  umbrella header "Pods-Ordinem_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

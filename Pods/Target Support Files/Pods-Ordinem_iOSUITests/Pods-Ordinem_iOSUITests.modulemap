@@ -1,0 +1,6 @@
+framework module Pods_Ordinem_iOSUITests {
+  umbrella header "Pods-Ordinem_iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
